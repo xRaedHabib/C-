@@ -1,0 +1,76 @@
+C# 
+المتغيرات
+
+int num1 = 5; 
+‎ رقم مافيه نقط
+Console.WriteLine(num1);
+
+float num1 = 5.2F; لازم بعدها f
+Console.WriteLine( num1 );
+
+double num1 = 5.2; 
+‎معناتها رقم في نص 
+
+string myName = Raed 
+لازم نحط علامه "" 
+Console.WriteLine( myName );
+
+char Raed = 'R'
+Console.WriteLine( Raed );
+------------------------------------------
+String سترينج
+
+string Raed = " 2A PC ";
+Console.WriteLine( Raed.);
+
+ToLower كلمات تكون صغيره 
+ToUpper كلمات تكون كبيره
+Index0f معرفت عدد الكلمه الي وقف عندها
+Length عدد الاحرف الي داخل 
+--------------------------------------------
+مهارات رياضيات 
+
+int x = 5;
+int y = 4;
+int z = x * y;
+علامه الضرب *
+int u = x / y;
+علامه القسمه /
+Console.WriteLine( u );
+
+اقدر اضرب واقسم من Console.WriteLine( x * y)
+
+Console.WriteLine( Math.Abs); يعني اذا عدد سالب يصير موجب
+Console.WriteLine(Math.Sqrt); الجذر التربيعي 
+
+--------------------------------------------
+Input 
+--------------------------------------------
+if and Nested if
+x = 6;
+y = 4;
+z = 0; 
+if ( x > y ) 
+Console.WriteLine(" x y ") 
+if ( y > x ) 
+Console.WriteLine(" y x") 
+--------------------------------------------
+if Else and Nested if Else
+
+‎&& معانتها and
+--------------------------------------------
+Switch Case BREAK
+--------------------------------------------
+While do while loop
+--------------------------------------------
+For loop
+--------------------------------------------
+Arrays
+--------------------------------------------
+Methods
+--------------------------------------------
+ 
+برمجه OOP 
+
+Class File Structure
+--------------------------------------------
